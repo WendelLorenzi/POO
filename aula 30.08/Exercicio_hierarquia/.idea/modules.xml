@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicio_hierarquia.iml" filepath="$PROJECT_DIR$/.idea/Exercicio_hierarquia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_hierarquia.iml" filepath="$PROJECT_DIR$/Exercicio_hierarquia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loja2/Loja2.iml" filepath="$PROJECT_DIR$/Loja2/Loja2.iml" />
+    </modules>
+  </component>
+</project>
